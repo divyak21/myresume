@@ -1,0 +1,23 @@
+*{
+    background-color: rgba(157, 210, 232, 0.918);
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: lighter;
+    text-align: justify;
+}
+table{
+    border-collapse: collapse;
+}
+h1{
+    text-shadow: rgb(238, 142, 142) 2px 3px;
+    color: rgb(37, 19, 6);
+}
+h2{
+    font-weight:bold;
+}
+hr {
+    border-style: dotted;
+    height: 0px;
+    width: 40%;
+}
+  
